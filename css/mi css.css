@@ -1,0 +1,74 @@
+    *{ 
+       
+         margin: 0px;
+		 padding: 0px;
+		 box-sizing: border-box;
+    }
+	
+	
+	.container{
+		
+		position: relative;
+		margin: auto;
+		width: 100%;
+		height: auto;
+	}
+	
+	
+	.fila {
+		
+		position: relative;
+		margin: auto;
+		width: 100%;
+		height: auto;
+	}
+	
+	.col-12{
+		width: 100%;
+		text-align: center;
+		color:#000000;
+		background-color: #ADD8E6;
+		font-family: Segoe Script;
+		font-size: 350%;
+		border-radius: 25px;
+		text-shadow: 2px 2px 5px indigo;
+		
+	}
+	
+	.col-4{
+	
+		width: 33.33333333%;
+		float: left;
+		font-family: Segoe Script;
+		font-size:250%;
+		text-align: center
+	}
+	
+	.col-8{
+		
+	    width: 66.66666666%;
+		float: left;
+	}
+	a{
+		color: black; 
+		font-family: Segoe Script; 
+		font-size: 130%;
+		text-align: center;
+		text-shadow: 2px 2px 5px indigo;
+	}
+	
+    p{ 
+	
+	color: indigo;
+	font-family: Century Schoolbook;
+	font-size: 150%
+	
+	
+	}
+	
+	h4{
+		color:black ;
+		font-family:Segoe Script ;
+		font-size: ;
+		text-shadow:2px 2px 5px indigo;
+	}
