@@ -28,7 +28,7 @@
 		text-align: center;
 		color:#000000;
 		background-color: #ADD8E6;
-		font-family: Segoe Script;
+		font-family: Eras Bold ITC;
 		font-size: 350%;
 		border-radius: 25px;
 		text-shadow: 2px 2px 5px indigo;
@@ -39,9 +39,10 @@
 	
 		width: 33.33333333%;
 		float: left;
-		font-family: Segoe Script;
+		font-family: Eras Bold ITC;
 		font-size:250%;
-		text-align: center
+		text-align: center;
+		min-width: 350px;
 	}
 	
 	.col-8{
@@ -51,7 +52,7 @@
 	}
 	a{
 		color: black; 
-		font-family: Segoe Script; 
+		font-family: Eras Bold ITC; 
 		font-size: 130%;
 		text-align: center;
 		text-shadow: 2px 2px 5px indigo;
@@ -60,7 +61,7 @@
     p{ 
 	
 	color: indigo;
-	font-family: Century Schoolbook;
+	font-family: Eras Bold ITC;
 	font-size: 150%
 	
 	
@@ -68,7 +69,7 @@
 	
 	h4{
 		color:black ;
-		font-family:Segoe Script ;
+		font-family: Eras Bold ITC;
 		font-size: ;
 		text-shadow:2px 2px 5px indigo;
 	}
